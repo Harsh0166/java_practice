@@ -1,6 +1,4 @@
 
-import java.util.*;
-
 import java.util.Scanner;
 
 public class find_min_num {
